@@ -7,7 +7,7 @@ Selected talks and presentations.
 
 ### 2026
 
-- Research Day, Institute for Management Research
+- Research Day, Institute for Management Research ([event page](https://www.ru.nl/en/about-us/events/research-day-2026))
 - Seminar at the Decision, Development, and PsychoPathology (D2P2) Lab, Behavioural Science Institute ([lab website](https://decision-lab.org/))
 - Workshop on Decision Making across the Lifespan, Tilburg University ([event page](https://www.tilburguniversity.edu/current/events/decision-making-across-lifespan))
 - TIBER Symposium, Tilburg University ([event page](https://www.tilburguniversity.edu/research/institutes-and-research-groups/tiber/symposium))
