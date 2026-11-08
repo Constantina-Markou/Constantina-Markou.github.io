@@ -7,10 +7,9 @@ hidemeta: true
 
 
 #### Office address
-Centre d'Économie de la Sorbonne (office 503)
-Université Paris I Panthéon-Sorbonne
-106-112 Boulevard de l'Hôpital, 75013 Paris
-France
+Houtlaan 4
+6525 XZ Nijmegen
+Netherlands
 
 ---
 
