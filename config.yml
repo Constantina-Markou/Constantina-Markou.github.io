@@ -1,5 +1,5 @@
 baseURL: "https://constantina-markou.github.io/"
-title: Your Name
+title: Constantina Markou
 paginate: 20
 theme: PaperMod
 
@@ -14,8 +14,8 @@ menu:
         - name: Research
           url: papers/
           weight: 1
-        - name: Talks
-          url: talks/
+        - name: Teaching
+          url: teaching/
           weight: 2
         - name: CV
           url: cv.pdf
@@ -23,8 +23,8 @@ menu:
 
 params:
     description: ""
-    author: Your Name
-    DateFormat: "January 2006"
+    author: Constantina Markou
+    DateFormat: "January 2026"
     defaultTheme: light
     hideFooter: false
     disableThemeToggle: true
@@ -45,7 +45,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Your Name
+          title: Constantina Markou
           subtitle: |
             Your short biography goes here. Replace this text with a description of your current position, research interests, and background.
             <br><br>
@@ -59,20 +59,18 @@ params:
           imageTitle: Your Name
           buttons:
             - name: Research
-              url: papers/
-            - name: Talks
-              url: talks/
+              url: research/
+            - name: Teaching
+              url: teaaching/
             - name: CV
               url: cv.pdf
     socialIcons:
         - name: Email
-          url: mailto:you@example.com
-        - name: Google Scholar
-          url: https://scholar.google.com/
+          url: constantina.markou@ru.nl
         - name: LinkedIn
-          url: https://www.linkedin.com/
+          url: https://www.linkedin.com/in/constantinamarkou/
         - name: ORCID
-          url: https://orcid.org/
+          url: https://orcid.org/0009-0000-7299-0320
 
     assets:
         disableHLJS: true
