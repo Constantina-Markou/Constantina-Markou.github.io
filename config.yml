@@ -1,0 +1,124 @@
+baseURL: "https://rosavandenende.github.io/" 
+title: Rosa van den Ende 
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: papers/
+          weight: 1
+        - name: Talks
+          url: talks/
+          weight: 2
+        - name: Resume
+          url: cv.pdf
+          weight: 3 
+        # - name: Photography
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
+
+params:
+    description: ""
+    author: Name
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Rosa van den Ende
+          subtitle: |
+            I am a postdoctoral researcher at RPTU Kaiserslautern-Landau, working with Daniel Heyen on designing early warning systems for tipping points. In 2025, I obtained my PhD in Applied Mathematics from Université Paris 1 Panthéon-Sorbonne and in Economics from Universität Bielefeld, under the supervision of Agnieszka Rusinowska and Manuel Foerster.
+            <br><br>
+                        I am mostly interested in network theory and game theory and how this can inform fair climate policy.
+            <div style="margin-top: 3em;"><b>News</b></div>
+            <ul style="text-align: left; display: inline-block; margin-top: 0.5em;">
+
+              <ul style="text-align: left; display: inline-block; margin-top: 0.5em; font-size: 0.85em;">
+              <li>10/2026: I am a laureate of the <i>Prix solennel de thèse</i> of the Chancellerie des Universités de Paris!</li>
+              <li>10/2026: I am a finalist for the PhD Award in Complex Systems of the Société Française des Systèmes Complexes.  </li>
+            </ul>
+          imageUrl: "picture2.jpg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Rosa van den Ende
+          buttons:
+            - name: Research
+              url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+           # - name: Newsletter
+           #   url: https://pmichaillat.substack.com
+            # - name: Tags
+            #   url: tags/
+            - name: Talks
+              url: talks/
+            - name: Resume
+              url: cv.pdf
+            #- name: Archive
+            #  url: archive/
+    socialIcons:
+        # - name: CV
+        #   url: cv_rosa.pdf
+        - name: Email
+          url: mailto:r.ende@rptu.de
+        #- name: Location
+        #  url: location/
+    
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=jwrYE5sAAAAJ&hl=fr
+        - name: LinkedIn
+          url: https://linkedin.com/in/rosavandenende
+        # - name: GitHub
+        #   url: https://github.com/pmichaillat
+        - name: ORCID
+          url: https://orcid.org/0000-0002-9417-1075
+      
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Rosa van den Ende"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
