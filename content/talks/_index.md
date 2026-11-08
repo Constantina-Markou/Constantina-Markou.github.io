@@ -14,5 +14,5 @@ Selected talks and presentations.
 
 ### 2023
 
-- TransAct Symposium, Nijmegen School of Management
+- TransAct Symposium, Nijmegen School of Management ([research group page](https://www.ru.nl/en/departments/institute-for-management-research/transformative-sustainable-change-in-action))
 - PhD Seminar, Nijmegen School of Management
