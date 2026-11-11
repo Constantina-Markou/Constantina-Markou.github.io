@@ -41,7 +41,7 @@ params:
           enabled: true
           title: Constantina Markou
           subtitle: |
-            Your short biography goes here. Replace this text with a description of your current position, research interests, and background.
+            I am a PhD candidate and lecturer in Economics at Radboud University in the Netherlands. My research focuses on behavioral economics, particularly the role of preferences in decision-making, with applications to sustainability and well-being. 
           imageUrl: "photo.jpg"
           imageWidth: 160
           imageHeight: 160
