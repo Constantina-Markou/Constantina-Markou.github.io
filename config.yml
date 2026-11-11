@@ -11,18 +11,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
-          url: papers/
-          weight: 1
-        - name: Teaching
-          url: teaching/
-          weight: 2
-        - name: Talks
-          url: talks/
-          weight: 3
         - name: CV
           url: cv.pdf
-          weight: 4
+          weight: 1
 
 params:
     description: "Academic website of Constantina Markou"
@@ -51,22 +42,11 @@ params:
           title: Constantina Markou
           subtitle: |
             Your short biography goes here. Replace this text with a description of your current position, research interests, and background.
-            <br><br>
-            <div style="margin-top: 3em;"><b>News</b></div>
-            <ul style="text-align: left; display: inline-block; margin-top: 0.5em; font-size: 0.85em;">
-              <li>MM/YYYY: Placeholder news item.</li>
-            </ul>
           imageUrl: "photo.jpg"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Constantina Markou
           buttons:
-            - name: Research
-              url: papers/
-            - name: Teaching
-              url: teaching/
-            - name: Talks
-              url: talks/
             - name: CV
               url: cv.pdf
     socialIcons:
